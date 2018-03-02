@@ -33,7 +33,7 @@ class SoDIP6Topo(Topo):
         # adding Hosts
         for i in range(7):
             h.insert(i+1, self.addHost('h%s' %(i+1)))
-        print(h.index(['h7']))
+        print(h.index(['h2']))
 
         #adding link among switch and hosts
         self.addLink(s[1], s[2])
