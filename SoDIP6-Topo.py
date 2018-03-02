@@ -84,9 +84,9 @@ def runSoDIP6():
     dumpNodeConnections(net.hosts)
     print ("Testing network connectivity")
     #net.pingAll()
+    CLI(net)
     net.stop()
 
-# if the script is run directly (sudo custom/optical.py):
 if __name__ == '__main__':
     # Tell mininet to print useful information
     setLogLevel('info')
