@@ -28,11 +28,13 @@ class SoDIP6Topo(Topo):
         h = []
 
         for i in range(16):
-            s.append(self.addSwitch('s%s' %i, protocols='OpenFlow13'))
+            if i<=15:
+                s.append(self.addSwitch('s%s' %(i+1), protocols='OpenFlow13'))
 
         # adding Hosts
         for i in range(8):
-            h.append(self.addHost('h%s' %i))
+            if i<=7
+                h.append(self.addHost('h%s' %(i+1)))
 
         #adding link among switch and hosts
         self.addLink(s[1], s[2])
