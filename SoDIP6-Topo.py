@@ -115,7 +115,6 @@ def runSoDIP6():
     CLI(net)
     net.stop()
 
-# if the script is run directly (sudo custom/optical.py):
 if __name__ == '__main__':
     # Tell mininet to print useful information
     setLogLevel('info')
