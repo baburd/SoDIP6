@@ -29,7 +29,7 @@ global net, h, s, pnode, hv6addr
 
 
 
-REMOTE_CONTROLLER_IP = "192.168.56.101"
+REMOTE_CONTROLLER_IP = "192.168.56.101"     #ODL controller running in the remote
 
 
 class OVSBridgeSTP(OVSSwitch):
@@ -55,17 +55,17 @@ class NodePower():
         self.name=name
         self.type=type
         self.status=status
-        self.pSwitchActive=110
-        self.pLinkActive=40
-        self.pmbpsActive=0.01
+        self.pSwitchActive=110      #average power consumption by switch 110W
+        self.pLinkActive=40         #average power consumption by active link
+        self.pmbpsActive=0.01       #power power coefficient, energy consumption per port per Mbps
 
-        self.pSwitchSleep = 33
+        self.pSwitchSleep = 33      #power consumption by switch during sleep mode
         self.pLinkSleep = 0.0
         self.pmbpsSleep = 0.0
 
-        self.pCPEActive = 7
+        self.pCPEActive = 7         #power consumption by CPE/Wireless AP during active mode
 
-        self.pCPESleep = 2.1
+        self.pCPESleep = 2.1        #power consumption by CPE/Wireless AP during sleep mode
         self.pCPElinkSleep = 0.0
 
     def setActivePower(self, pActive=110,pLinkActive=40):
