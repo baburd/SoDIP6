@@ -1,0 +1,13 @@
+cust_id,cust_name,cust_addr,cust_gateway,cust_priority
+#XC1,X Customer 1,Amsterdam,Amsterdam,1
+#XC2,X Customer 2,Atlanta,Atlanta,2
+#XC3,X Customer 3,Pittsburgh,Pittsburgh,4
+#XC4,X Customer 4,Hong Kong,Hong Kong,3
+#XC5,X Customer 5,Tokyo,Tokyo,1
+#XC6,X Customer 6,Chennai,Chennai,5
+#XC7,X Customer 7,San Francisco,San Francisco,3
+#XC8,X Customer 8,San Diego,San Diego,4
+#XC9,X Customer 9,Miami,Miami,3
+#XC10,X Customer 10,Nashville,Nashville,3
+#XC11,X Customer 11,Columbus,Columbus,2
+#XC12,X Customer 12,Las Vegas,Las Vegas,6

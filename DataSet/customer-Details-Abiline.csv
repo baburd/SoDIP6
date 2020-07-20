@@ -1,0 +1,8 @@
+cust_id,cust_name,cust_addr,cust_gateway,cust_priority
+#AC1,A Customer 1,Sunnyvale,Sunnyvale,1
+#AC2,A Customer 2,Washington DC,Washington DC,2
+#AC3,A Customer 3,Chicago,Chicago,3
+#AC4,A Customer 4,Los Angeles,Los Angeles,3
+#AC5,A Customer 5,Houston,Houston,4
+#AC6,A Customer 6,Denver,Denver,2
+#AC7,A Customer 7,Seattle,Seattle,4

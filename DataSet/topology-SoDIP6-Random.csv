@@ -1,0 +1,14 @@
+node_from,node_to,bandwidth,link_type,link_status
+a,b,7,copper,up
+a,c,5.2,copper,up
+a,f,9.4,copper,up
+b,c,10.2,copper,up
+b,d,8.3,copper,up
+c,d,6.3,copper,up
+c,f,9,copper,up
+d,i,6,copper,up
+e,f,8,copper,up
+e,i,10,copper,up
+g,e,6,copper,up
+g,c,7,copper,up
+g,i,3,copper,up

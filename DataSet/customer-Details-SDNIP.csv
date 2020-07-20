@@ -1,0 +1,4 @@
+cust_id,cust_name,cust_addr,cust_gateway,cust_priority
+#AC1,AS1,AS1,gwr1,1
+#AC2,AS2,AS2,gwr2,2
+#AC3,AS3,AS3,gwr3,3

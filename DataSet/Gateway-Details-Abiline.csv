@@ -1,0 +1,5 @@
+id,name,address,as_gateway,priority
+Chicago,Chicago,Chicago,gwr1,1
+Los Angeles,Los Angeles,Los Angeles,gwr2,2
+Houston,Houston,Houston,gwr3,3
+Seattle,Seattle,Seattle,gwr4,4

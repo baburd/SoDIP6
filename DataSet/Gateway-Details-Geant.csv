@@ -1,0 +1,10 @@
+id,name,address,as_gateway,priority
+IE,IE,IE,gwr1,1
+PT,PT,PT,gwr2,2
+TR,TR,TR,gwr3,3
+HR,HR,HR,gwr4,4
+NO,NO,NO,gwr5,5
+FI,FI,FI,gwr6,6
+IL,IL,IL,gwr7,7
+MT,MT,MT,gwr8,8
+RU,RU,RU,gwt9,9

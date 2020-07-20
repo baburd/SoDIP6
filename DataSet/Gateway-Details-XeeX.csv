@@ -1,0 +1,8 @@
+id,name,address,as_gateway,priority
+Chennai,Chennai,Chennai,gwr1,1
+San Diego,San Diego,San Diego,gwr2,2
+San Francisco,San Fransisco,San Fransisco,gwr3,3
+London,London,London,gwr4,4
+Denver,Denver,Denver,gwr5,5
+Miami,Miami,Miami,gwr6,6
+Amsterdam,Amsterdam,Amsterdam,gwr7,7

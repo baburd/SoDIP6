@@ -1,0 +1,16 @@
+cust_id,cust_name,cust_addr,cust_gateway,cust_priority
+#BC1,B Customer 1,Auckland,Auckland,1
+#BC2,B Customer 2,New Delhi,New Delhi,2
+#BC3,B Customer 3,Manila,Manila,3
+#BC4,B Customer 4,Seoul,Seoul,4
+#BC5,B Customer 5,Tokyo,Tokyo,4
+#BC6,B Customer 6,Jakarta,Jakarta,5
+#BC7,B Customer 7,Taipei,Taipei,5
+#BC8,B Customer 8,Mumbai,Mumbai,4
+#BC9,B Customer 9,Palo Alto,Palo Alto,6
+#BC10,B Customer 10,Perth,Perth,6
+#BC11,B Customer 11,Chenai,Chenai,7
+#BC12,B Customer 12,Bangkok,Bangkok,7
+#BC13,B Customer 13,Los Angeles,Los Angeles,8
+#BC14,B Customer 14,Kuala Lumpur,Kuala Lumpur,8
+#BC15,B Customer 15,San Jose,San Jose,4

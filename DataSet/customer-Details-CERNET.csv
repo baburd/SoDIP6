@@ -1,0 +1,12 @@
+cust_id,cust_name,cust_addr,cust_gateway,cust_priority
+#XC1,X Customer 1,Hangzhou,Hangzhou,1
+#XC2,X Customer 2,Beijing,Beijing,2
+#XC3,X Customer 3,Lasa,Lasa,4
+#XC4,X Customer 4,Taiyuan,Taiyuan,3
+#XC5,X Customer 5,Shijiazhuang,Shijiazhuang,1
+#XC6,X Customer 6,Nanning,Nanning,5
+#XC7,X Customer 7,Dalian,Dalian,3
+#XC8,X Customer 8,Gullin,Gullin,4
+#XC9,X Customer 9,Hohhot,Hohhot,3
+#XC10,X Customer 10,Japan,Japan,3
+#XC11,X Customer 11,Qingdao,Qingdao,2

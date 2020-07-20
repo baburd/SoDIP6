@@ -1,0 +1,5 @@
+id,name,address,AS_gateway,priority
+S1,AS1,AS1,gwr1,1
+S2,AS2,AS2,gwr2,2
+S3,AS3,AS3,gwr3,3
+S4,AS4,AS4,gwr4,4
