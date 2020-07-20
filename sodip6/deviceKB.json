@@ -1,0 +1,130 @@
+	{
+	"Device_0":{
+        "device_id": "afkdskhd00",
+		"L": -16.0,"S":4.0,"M":4.0,"T":3.0,"C":3.0   	},
+		
+	"Device_1":{
+        "device_id": "afkdskhd01", 
+		"L": 4.0,"S":-16.0,"M":4.0,"T":3.0,"C":2.0		},
+
+	
+	"Device_2":{
+        "device_id": "afkdskhd02", 
+		"L": 2.0,"S":2.0,"M":3.0,"T":2.0,"C":3.0		},
+
+		
+	"Device_3":{
+        "device_id": "afkdskhd03", 
+		"L": 4.0,"S":2.0,"M":4.0,"T":3.0,"C":-16.0		},	
+
+	"Device_4":{
+        "device_id": "afkdskhd04", 
+		"L": 4.0,"S":4.0,"M":3.0,"T":4.0,"C":2.0		},
+
+	"Device_5":{
+        "device_id": "afkdskhd05", 
+		"L": 3.0,"S":3.0,"M":-16.0,"T":-16.0,"C":2.0		},
+
+	"Device_6":{
+        "device_id": "afkdskhd06", 
+		"L": 3.0,"S":-16.0,"M":4.0,"T":4.0,"C":-16.0		},
+
+	"Device_7":{
+        "device_id": "afkdskhd07", 
+		"L": -16.0,"S":-16.0,"M":4.0,"T":2.0,"C":2.0	},
+
+	"Device_8":{
+        "device_id": "afkdskhd08", 
+		"L": 3.0,"S":-16.0,"M":-16.0,"T":3.0,"C":4.0	},
+
+	"Device_9":{
+        "device_id": "afkdskhd09", 
+		"L": 2.0,"S":4.0,"M":4.0,"T":4.0,"C":4.0		},
+
+	"Device_10":{
+        "device_id": "afkdskhd10", 
+		"L": -16.0,"S":-16.0,"M":-16.0,"T":4.0,"C":4.0	},
+
+	"Device_11":{
+        "device_id": "afkdskhd11", 
+		"L": 4.0,"S":4.0,"M":4.0,"T":3.0,"C":2.0		},
+
+	"Device_12":{
+        "device_id": "afkdskhd12", 
+		"L": 3.0,"S":4.0,"M":3.0,"T":2.0,"C":4.0		},
+
+	"Device_13":{
+        "device_id": "afkdskhd13", 
+        "up_time": "0.0",  
+		"L": 2.0,"S":2.0,"M":3.0,"T":-16.0,"C":3.0		},
+
+	"Device_14":{
+        "device_id": "afkdskhd14", 
+        "up_time": "0.0",  
+		"L": 2.0,"S":4.0,"M":4.0,"T":3.0,"C":-16.0		},
+
+	"Device_15":{
+        "device_id": "afkdskhd16", 
+		"L": 4.0,"S":-16.0,"M":2.0,"T":2.0,"C":-16.0		},	
+
+	"Device_16":{
+        "device_id": "afkdskhd16", 
+		"L": 2.0,"S":2.0,"M":2.0,"T":3.0,"C":3.0		},
+
+	"Device_17":{
+        "device_id": "afkdskhd17", 
+		"L": 3.0,"S":2.0,"M":2.0,"T":4.0,"C":4.0		},
+
+	"Device_18":{
+        "device_id": "afkdskhd18", 
+		"L": -16.0,"S":4.0,"M":-16.0,"T":2.0,"C":2.0	},
+	
+	"Device_19":{
+        "device_id": "afkdskhd19", 
+		"L": 2.0,"S":2.0,"M":4.0,"T":4.0,"C":3.0		},
+
+	"Device_20":{
+        "device_id": "afkdskhd20", 
+		"L": -16.0,"S":4.0,"M":-16.0,"T":2.0,"C":2.0	},
+
+	"Device_21":{
+        "device_id": "afkdskhd21", 
+		"L": -16.0,"S":-16.0,"M":2.0,"T":2.0,"C":2.0	},
+
+	"Device_22":{
+        "device_id": "afkdskhd22", 
+		"L": 3.0,"S":2.0,"M":-16.0,"T":3.0,"C":2.0	},
+
+	"Device_23":{
+        "device_id": "afkdskhd23", 
+		"L": 2.0,"S":3.0,"M":4.0,"T":4.0,"C":4.0		},
+
+	"Device_24":{
+        "device_id": "afkdskhd24", 
+		"L": 2.0,"S":2.0,"M":4.0,"T":3.0,"C":3.0		},
+
+	"Device_25":{
+        "device_id": "afkdskhd25", 
+		"L": -16.0,"S":2.0,"M":3.0,"T":2.0,"C":-16.0		},
+
+	"Device_26":{
+        "device_id": "afkdskhd26", 
+		"L": 4.0,"S":-16.0,"M":3.0,"T":-16.0,"C":3.0		},
+	
+	"Device_27":{
+        "device_id": "afkdskhd27", 
+		"L": 2.0,"S":2.0,"M":3.0,"T":2.0,"C":2.0		},
+
+	"Device_28":{
+        "device_id": "afkdskhd28", 
+		"L": -16.0,"S":4.0,"M":-16.0,"T":2.0,"C":3.0	},
+
+	"Device_29":{
+        "device_id": "afkdskhd29", 
+		"L": 3.0,"S":3.0,"M":4.0,"T":3.0,"C":4.0		},
+
+	"Device_30":{
+        "device_id": "afkdskhd30", 
+		"L": -16.0,"S":4.0,"M":2.0,"T":3.0,"C":2.0		}		
+							
+	}
