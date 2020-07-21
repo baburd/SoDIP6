@@ -1,0 +1,110 @@
+{
+    "bgpPeers" : [
+        {
+            "attachmentDpid" : "00:00:00:00:00:00:00:a1",
+	    "attachmentPort" : "1",
+            "ipAddress" : "10.0.1.1, 2001:1::1"
+        },
+	{
+            "attachmentDpid" : "00:00:00:00:00:00:00:a2",
+	    "attachmentPort" : "1",
+            "ipAddress" : "10.0.2.1, 2001:2::1"
+        },
+	{
+            "attachmentDpid" : "00:00:00:00:00:00:00:a3",
+	    "attachmentPort" : "1",
+            "ipAddress" : "10.0.3.1, 2001:3::1"
+        },
+	{
+            "attachmentDpid" : "00:00:00:00:00:00:00:a4",
+	    "attachmentPort" : "1",
+            "ipAddress" : "10.0.4.1, 2001:4::1"
+        }
+    ],
+    "bgpSpeakers" : [
+        {
+            "name" : "bgp",
+            "attachmentDpid" : "00:00:00:00:00:00:00:a5",
+            "attachmentPort" : "1",
+            "macAddress" : "00:00:00:00:00:01",
+            "interfaceAddresses" : [
+                {
+		    "interfaceDpid" : "00:00:00:00:00:00:00:a1",
+		    "interfacePort" : "1",
+                    "ipAddress" : "10.0.1.101, 2001:1::101"
+                },
+                {
+		    "interfaceDpid" : "00:00:00:00:00:00:00:a2",
+		    "interfacePort" : "1",
+                    "ipAddress" : "10.0.2.101, 2001:2::101"
+                },
+                {
+		    "interfaceDpid" : "00:00:00:00:00:00:00:a3",
+		    "interfacePort" : "1",
+                    "ipAddress" : "10.0.3.101, 2001:3::101"
+                },
+                {
+		    "interfaceDpid" : "00:00:00:00:00:00:00:a4",
+		    "interfacePort" : "1",
+                    "ipAddress" : "10.0.4.101, 2001:4::101"
+                }
+            ]
+        }
+    ],
+    "ip4LocalPrefixes" : [
+                    
+                    {
+                        "ipPrefix" : "10.0.100.0/24",
+                        "type" : "PUBLIC",
+                        "gatewayIp" : "10.0.100.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.1.0/24",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "192.168.1.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.2.0/24",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "192.168.2.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.3.0/24",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "192.168.3.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.4.0/24",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "192.168.4.254"
+                    }
+    ],
+    "ip6LocalPrefixes" : [
+					{
+                        "ipPrefix" : "2001:100::/64",
+                        "type" : "PUBLIC",
+                        "gatewayIp" : "2001:100::254"
+                    },
+                    {
+                        "ipPrefix" : "2001:1::/64",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "2001:1::254"
+                    },
+                    {
+                        "ipPrefix" : "2001:2::/64",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "2001:2::254"
+                    },
+                    {
+                        "ipPrefix" : "2001:3::/64",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "2001:3::254"
+                    },
+					{
+                        "ipPrefix" : "2001:4::/64",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "2001:4::254"
+                    }
+    ],
+    "virtualGatewayMacAddress" : "00:00:00:00:00:01"
+}
