@@ -1,4 +1,13 @@
-__author__ = 'babu'
+# Program code for energy efficiency evaluation of SoDIP6 network
+__author__ = "Babu R Dawadi - baburd"
+__copyright__ = "Copyright 2020, The SoDIP6 Project"
+__credits__ = ["GRC Lab @UPV", "LICT lab @IOE-TU", "NTNU-MSESSD",
+                    "CARD @IOE-TU"]
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Babu R Dawadi"
+__email__ = "baburd@ioe.edu.np"
+__status__ = "Test/Implementation"
 
 """
 This is the custom topology for SDN and IPv6 functionality test with evaluation of energy consumption over \
