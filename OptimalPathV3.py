@@ -1,3 +1,14 @@
+# Program code for SoDIP6 network migration analysis, modeling, emaluation and implementation
+__author__ = "Babu R Dawadi"
+__copyright__ = "Copyright 2020, The SoDIP6 Project"
+__credits__ = ["GRC Lab @UPV", "LICT lab @IOE-TU", "NTNU-MSESSD",
+                    "CARD @IOE-TU"]
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Babu R Dawadi"
+__email__ = "baburd@ioe.edu.np"
+__status__ = "Test/Implementation"
+
 from tkinter import *
 from tkinter import messagebox
 from tkinter import filedialog
