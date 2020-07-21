@@ -1,4 +1,14 @@
 #!/usr/bin/python
+# Program code for Multi-domain SoDIP6 network implementation using ONOS/SDN-IP
+__author__ = "Babu R Dawadi - baburd"
+__copyright__ = "Copyright 2020, The SoDIP6 Project"
+__credits__ = ["GRC Lab @UPV", "LICT lab @IOE-TU", "NTNU-MSESSD",
+                    "CARD @IOE-TU"]
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Babu R Dawadi"
+__email__ = "baburd@ioe.edu.np"
+__status__ = "Test/Implementation"
 
 from mininet.topo import Topo
 from mininet.net import Mininet
